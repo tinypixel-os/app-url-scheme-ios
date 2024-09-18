@@ -1,0 +1,372 @@
+[
+    {
+        "id": "F78E7B6F-8B7F-4373-9E2F-23B6E1B9D4D1",
+        "name": "Calendar",
+        "deepLink": "calshow://"
+    },
+    {
+        "id": "2F2BE90D-925B-4B8A-BAC0-D7B75B9DE12E",
+        "name": "Reminders",
+        "deepLink": "x-apple-reminderkit://"
+    },
+    {
+        "id": "DA5871DF-9429-4D80-A950-0F0DCC09F3D8",
+        "name": "Safari",
+        "deepLink": "x-web-search://"
+    },
+    {
+        "id": "D0E6A19B-2B44-4D1C-9D7F-7C679B648B3E",
+        "name": "Photos",
+        "deepLink": "photos-redirect://"
+    },
+    {
+        "id": "9BA89CE2-C134-41ED-987F-BD309F0AD7AC",
+        "name": "Journal",
+        "deepLink": "moments://"
+    },
+    {
+        "id": "52B615C5-462D-4FEB-9AE2-10366BD780E0",
+        "name": "Apple Notes",
+        "deepLink": "mobilenotes://"
+    },
+    {
+        "id": "5C6E5954-C70D-45DF-95E4-F7C1A448BDC0",
+        "name": "Apple Fitness",
+        "deepLink": "activitytoday://"
+    },
+    {
+        "id": "7EDFD85D-75E2-47A1-B604-E7EFD47E030A",
+        "name": "Apple Music",
+        "deepLink": "music://"
+    },
+    {
+        "id": "8D4B875F-FE78-49F4-84B3-54990A3E6B5E",
+        "name": "Messages",
+        "deepLink": "messages://"
+    },
+    {
+        "id": "D3F7A2B8-10D2-4644-9A8D-2AA7F7F6E1D2",
+        "name": "Apple Books",
+        "deepLink": "ibooks://"
+    },
+    {
+        "id": "7AA2020D-D80F-4B95-BB55-7FD70E4ACBCE",
+        "name": "Apple Podcasts",
+        "deepLink": "podcasts://"
+    },
+    {
+        "id": "ABBF25F6-4EB4-44D2-B105-B577EBF6C2CC",
+        "name": "Apple Mail",
+        "deepLink": "message://"
+    },
+    {
+        "id": "2AA9CB87-0B3D-4CA8-91EA-4EF541EB0009",
+        "name": "Whatsapp",
+        "deepLink": "whatsapp://"
+    },
+    {
+        "id": "579EBB73-769D-4339-9ED3-5CB09ED599DB",
+        "name": "Instagram",
+        "deepLink": "instagram://"
+    },
+    {
+        "id": "27B4F79F-4214-480F-85F2-068C0FA2B42B",
+        "name": "Twitter",
+        "deepLink": "twitter://"
+    },
+    {
+        "id": "4199CE8B-E7CC-44D2-860D-9C14168B3B51",
+        "name": "Youtube",
+        "deepLink": "youtube://"
+    },
+    {
+        "id": "B1550502-2CFC-4ED2-9E7A-BE664E90444A",
+        "name": "Netflix",
+        "deepLink": "nflx://"
+    },
+    {
+        "id": "4BF44203-1969-4E52-8597-9F85541A9F46",
+        "name": "Telegram",
+        "deepLink": "tg://"
+    },
+    {
+        "id": "C34910EE-8FBB-4279-A1B2-93708D01919A",
+        "name": "Snapchat",
+        "deepLink": "snapchat://"
+    },
+    {
+        "id": "BAA9B990-3300-45C0-8C67-6DBEC20C6643",
+        "name": "LinkedIn",
+        "deepLink": "linkedin://"
+    },
+    {
+        "id": "10CB50ED-2489-476D-AEB1-91F3BEF02E4D",
+        "name": "Discord",
+        "deepLink": "discord://"
+    },
+    {
+        "id": "6DD9743A-716F-41F5-A9A1-46B216FA6567",
+        "name": "Reddit",
+        "deepLink": "reddit://"
+    },
+    {
+        "id": "3FB14DB9-6DD8-49D0-A9CB-4504C38C7C31",
+        "name": "Signal",
+        "deepLink": "sgnl://"
+    },
+    {
+        "id": "1B61E03C-7A66-46A6-93B5-677D56F86E4B",
+        "name": "Zoom",
+        "deepLink": "zoomus://"
+    },
+    {
+        "id": "94D61E44-6A43-488A-B920-A2206A7F6F52",
+        "name": "Microsoft Teams",
+        "deepLink": "msteams://"
+    },
+    {
+        "id": "80F6EAA5-924F-4F9F-9DEB-093F346AE17C",
+        "name": "Slack",
+        "deepLink": "slack://"
+    },
+    {
+        "id": "69827E1C-7FFA-48F2-9774-1B4E219CA032",
+        "name": "Freedom",
+        "deepLink": "freedom://"
+    },
+    {
+        "id": "93D818B9-2B38-4433-B879-121C57CB51FF",
+        "name": "Kindle",
+        "deepLink": "kindle://"
+    },
+    {
+        "id": "926112E0-F9F5-4B49-B92F-0D18EBC4D6DB",
+        "name": "Fantastical",
+        "deepLink": "x-fantastical3://"
+    },
+    {
+        "id": "35C76200-3BA3-45EA-BA12-41AF0F7E2C61",
+        "name": "Duolingo",
+        "deepLink": "duolingo://"
+    },
+    {
+        "id": "0369F312-76D8-463C-9990-8D619972DB2D",
+        "name": "1Password",
+        "deepLink": "onepassword://"
+    },
+    {
+        "id": "F9FE7190-DB5F-4A9A-A073-B5ECC7AC3C45",
+        "name": "LastPass",
+        "deepLink": "lastpass://"
+    },
+    {
+        "id": "0EC7C3DA-C5EE-4290-82CC-983D44BDE6F8",
+        "name": "Gmail",
+        "deepLink": "googlegmail://"
+    },
+    {
+        "id": "21FAE72C-DC1F-4DFD-B401-D28709F17949",
+        "name": "Google Maps",
+        "deepLink": "comgooglemaps://"
+    },
+    {
+        "id": "8040DF7C-AA30-42DB-9544-49D667F3CE53",
+        "name": "Uber",
+        "deepLink": "uber://"
+    },
+    {
+        "id": "06A3C973-86AD-49CC-88DE-795E57215BCE",
+        "name": "Headspace",
+        "deepLink": "headspace://"
+    },
+    {
+        "id": "AAC71A89-223A-40EB-B1D9-16F7131B66B2",
+        "name": "Calm",
+        "deepLink": "calm://"
+    },
+    {
+        "id": "824273CC-DF87-49D1-9BF0-A62AAF374B18",
+        "name": "Day One Journal",
+        "deepLink": "dayone://"
+    },
+    {
+        "id": "A0985BB9-1799-4003-9528-7BBB6BDA4CC0",
+        "name": "Cash App",
+        "deepLink": "cashapp://"
+    },
+    {
+        "id": "B28EC9C3-FE2D-4C59-97F1-10FB4C8EAB79",
+        "name": "PayPal",
+        "deepLink": "paypal://"
+    },
+    {
+        "id": "0ED18DE4-E39F-4A20-8883-008367EB6312",
+        "name": "WeChat",
+        "deepLink": "weixin://"
+    },
+    {
+        "id": "FABD78E7-E2C0-4BCA-809B-97BC4ECD9902",
+        "name": "Google Calendar",
+        "deepLink": "googlecalendar://"
+    },
+    {
+        "id": "6FAC29F4-2CD1-4B60-BAA2-2AA78F8416EF",
+        "name": "Google Authenticator",
+        "deepLink": "googleauthenticator://"
+    },
+    {
+        "id": "1A85C444-61FC-4680-818C-1A2412804A05",
+        "name": "Todoist",
+        "deepLink": "todoist://"
+    },
+    {
+        "id": "1B49F08E-2D26-4B4E-96FD-2F0E72AFF121",
+        "name": "TickTick",
+        "deepLink": "ticktick://"
+    },
+    {
+        "id": "E23D6062-52CA-4474-A604-4A208CC99C3B",
+        "name": "Structured",
+        "deepLink": "structured://"
+    },
+    {
+        "id": "F6327479-4039-4733-977D-95A80C8E8138",
+        "name": "Things 3",
+        "deepLink": "things://"
+    },
+    {
+        "id": "1083DE1C-25BE-4C97-B6B4-685E620876EA",
+        "name": "Google Keep",
+        "deepLink": "comgooglekeep://"
+    },
+    {
+        "id": "17E95481-3027-4939-967D-499638829245",
+        "name": "Bear",
+        "deepLink": "bear://"
+    },
+    {
+        "id": "87AAD48C-D528-4E5B-BB16-2978CA106731",
+        "name": "Notability",
+        "deepLink": "notability://"
+    },
+    {
+        "id": "FDA388AE-EFAA-43E0-9345-DC080E049CCC",
+        "name": "Notion",
+        "deepLink": "notion://"
+    },
+    {
+        "id": "03193C97-6B28-4C9A-B7A9-4CC01D11FF51",
+        "name": "Evernote",
+        "deepLink": "evernote://"
+    },
+    {
+        "id": "C8F94A6C-3238-47B6-9823-06D37E43461A",
+        "name": "Voicenotes",
+        "deepLink": "voicenotes://"
+    },
+    {
+        "id": "5E023052-ACE1-49E8-A5F2-CFBE95A9FF2B",
+        "name": "Spotify",
+        "deepLink": "spotify://"
+    },
+    {
+        "id": "CD0DAD57-D1B0-465D-B58D-3DE72FF854CA",
+        "name": "YouTube Music",
+        "deepLink": "youtubemusic://"
+    },
+    {
+        "id": "729C49BE-C834-44E8-85D5-BD9171D49C45",
+        "name": "Amazon Music",
+        "deepLink": "amazonmusic://"
+    },
+    {
+        "id": "C883ED17-A435-496D-8CE1-A69DDCACC317",
+        "name": "Streaks",
+        "deepLink": "streaks://"
+    },
+    {
+        "id": "8C0C2E84-C500-424F-B7DE-6A5775B5E0DD",
+        "name": "Chrome",
+        "deepLink": "googlechrome://"
+    },
+    {
+        "id": "46FE1124-F6BC-422B-A6B9-200C446084C4",
+        "name": "Mozilla Firefox",
+        "deepLink": "firefox://"
+    },
+    {
+        "id": "6E0B0607-3B30-472B-AEF1-635C4211BB52",
+        "name": "Arc Browser",
+        "deepLink": "arc://"
+    },
+    {
+        "id": "98E05BFE-E969-4A3B-AC14-AE7F38ECDE29",
+        "name": "Brave",
+        "deepLink": "brave://"
+    },
+    {
+        "id": "788BF997-5726-40FD-B0AB-30123DA91ECB",
+        "name": "Paytm",
+        "deepLink": "paytm://"
+    },
+    {
+        "id": "51D5F545-E410-4F57-B8D8-500F96C3B030",
+        "name": "PhonePe",
+        "deepLink": "phonepe://"
+    },
+    {
+        "id": "CF99AC73-8724-4EAF-9622-0E361C45E205",
+        "name": "Google Pay",
+        "deepLink": "tez://"
+    },
+    {
+        "id": "E1CF9B25-8E73-4441-9B6F-86C9CCE64C59",
+        "name": "CRED",
+        "deepLink": "cred://"
+    },
+    {
+        "id": "EC9861C8-60CC-436A-95FD-65436227F1B1",
+        "name": "Nike Run Club",
+        "deepLink": "nikerunclub://"
+    },
+    {
+        "id": "4750E2AC-06BB-429E-850C-E4BA5AD85569",
+        "name": "Hevy",
+        "deepLink": "hevy://"
+    },
+    {
+        "id": "2F2944D5-D30E-4B0F-82FB-2B2742F370C9",
+        "name": "Strong",
+        "deepLink": "strong://"
+    },
+    {
+        "id": "1951BF81-107B-434E-A258-6ED2D3A8989C",
+        "name": "Strava",
+        "deepLink": "strava://"
+    },
+    {
+        "id": "03CB623D-6DDF-4AC2-B9D6-9EE0BDCB4B2F",
+        "name": "MyFitnessPal",
+        "deepLink": "myfitnesspal://"
+    },
+    {
+        "id": "CA0F2427-9E8A-4603-B397-37FFAA6582EE",
+        "name": "Google Fit",
+        "deepLink": "googlefit://"
+    },
+    {
+        "id": "EECAB15D-9804-4CD1-84F8-FE0F6F7E4911",
+        "name": "Empty",
+        "deepLink": "empty://"
+    },
+    {
+        "id": "815C6680-59B6-4361-8958-676C64AF2E15",
+        "name": "No Nut",
+        "deepLink": "nonut://"
+    },
+    {
+        "id": "027B7BB7-36D5-43D4-8FDF-A1CDBE191B81",
+        "name": "I am",
+        "deepLink": "iam://"
+    }
+]
