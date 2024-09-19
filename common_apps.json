@@ -388,5 +388,145 @@
         "id": "EA60419C-81D4-49C9-A33E-E1F64A307CFC",
         "name": "Amazon",
         "deepLink": "com.amazon.mobile.shopping://"
+    },
+    {
+        "id": "8F0D901D-6C61-4ADA-8340-B828EC9EE549",
+        "name": "Habit tracker",
+        "deepLink": "habify://"
+    },
+    {
+        "id": "0F9F79E4-E229-4C2E-A9F4-CFB21C923EB1",
+        "name": "Stoic",
+        "deepLink": "stoicapp://"
+    },
+    {
+        "id": "A7542CCF-C75E-44F4-8892-D1251849ED78",
+        "name": "Rapido",
+        "deepLink": "rapido://"
+    },
+    {
+        "id": "25F3A786-A88F-4A5B-82C3-EA7399B8D25F",
+        "name": "Endel",
+        "deepLink": "endel://"
+    },
+    {
+        "id": "9E72F3C6-6116-4AD0-9D71-370970BCB04C",
+        "name": "My Fitness Pal",
+        "deepLink": "myfitnesspal://"
+    },
+    {
+        "id": "DD0EEE4E-C1CE-4A0D-B0FE-498DFCEA9806",
+        "name": "Waterllama",
+        "deepLink": "waterlama://"
+    },
+    {
+        "id": "9D233ABA-B740-428B-93CB-D1CF24EA29A3",
+        "name": "Ultrahuman",
+        "deepLink": "ultrahuman://"
+    },
+    {
+        "id": "06CBBE23-0329-463B-BA42-A5EF8B71CFA5",
+        "name": "Telegram",
+        "deepLink": "tg://"
+    },
+    {
+        "id": "2D56AF85-C740-497D-A0C4-1CD8D076F427",
+        "name": "Swiggy",
+        "deepLink": "swiggy://"
+    },
+    {
+        "id": "8A1F2BBB-B3DE-4974-A460-07CA5A1AFCEF",
+        "name": "Skyscanner",
+        "deepLink": "skyscanner://"
+    },
+    {
+        "id": "81178510-1C39-4040-9996-6562D7337D13",
+        "name": "One Sec App",
+        "deepLink": "onesec://"
+    },
+    {
+        "id": "A67F553F-98E3-4D1E-9F7A-56B54C5338A3",
+        "name": "Chess",
+        "deepLink": "com.chess.iphone://"
+    },
+    {
+        "id": "B708AB5B-6D81-43E7-9CBD-D8B0084A7204",
+        "name": "Nike Training Club",
+        "deepLink": "ntc://"
+    },
+    {
+        "id": "27C6339C-BBE0-43E5-9BE1-8C25AF6E1515",
+        "name": "Ola",
+        "deepLink": "olacabs://"
+    },
+    {
+        "id": "F80CC161-ABA7-4CF4-B72F-EDA1994E194D",
+        "name": "Google Translate",
+        "deepLink": "googletranslate://"
+    },
+    {
+        "id": "C3AE9EC0-CBCD-45A2-87AF-4F9DEED24562",
+        "name": "Gentler Streak",
+        "deepLink": "gentlerapp://"
+    },
+    {
+        "id": "C0F32D00-A7A4-4C2A-9A30-0A7364AE8787",
+        "name": "Any.do",
+        "deepLink": "anydo://"
+    },
+    {
+        "id": "FC067FB3-A8D9-410F-B707-565949CB0A96",
+        "name": "Amazon music",
+        "deepLink": "amznmp3"
+    },
+    {
+        "id": "50CF67FE-4E46-4D10-9D69-048826199715",
+        "name": "Chat GPT",
+        "deepLink": "com.openai.chat://"
+    },
+    {
+        "id": "3663EABB-FADE-42B2-870F-4CDB19376D85",
+        "name": "Blinkist",
+        "deepLink": "blinkistapp://"
+    },
+    {
+        "id": "3DC1C4EC-1C06-4A35-A004-3876C387BDB7",
+        "name": "Audible",
+        "deepLink": "audible://"
+    },
+    {
+        "id": "D6DCD04B-7421-409B-81A5-106DF1109D17",
+        "name": "Booking.com",
+        "deepLink": "booking://"
+    },
+    {
+        "id": "EFDDC619-B57F-4846-A907-ECCCE094755E",
+        "name": "Bumble",
+        "deepLink": "bumble://"
+    },
+    {
+        "id": "2D428F51-721F-4A27-9BBB-2AACA2FE6AA4",
+        "name": "Airbnb",
+        "deepLink": "airbnb://"
+    },
+    {
+        "id": "67DB746C-0379-4BA5-B3E5-64560825130A",
+        "name": "Not Boring Weather",
+        "deepLink": "com.andyworks.weather://"
+    },
+    {
+        "id": "1A7184F7-15D0-4483-927F-281C08A4DDF8",
+        "name": "Not Boring Vibes",
+        "deepLink": "com.andyworks.vibes://"
+    },
+    {
+        "id": "9D44B8C9-C3ED-439B-BBEA-F1AC2032F3B9",
+        "name": "Not Boring Habits",
+        "deepLink": "com.andyworks.streaks://"
+    },
+    {
+        "id": "90EFD886-FCFA-4759-B106-62884A290FC7",
+        "name": "Not Boring Calculator",
+        "deepLink": "com.andyworks.calculator://"
     }
 ]
