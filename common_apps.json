@@ -373,5 +373,20 @@
         "id": "2CE43C52-C02D-4E8D-8292-83D81109B938",
         "name": "How We Feel",
         "deepLink": "com.googleusercontent.apps.666825112376-4kpse3btf2i2m91m45p9q7qikfuac6k2://"
+    },
+    { 
+        "id": "EA997955-E4FE-45C2-9760-C41A22B2C445",
+        "name": "Google Drive",
+        "deepLink": "googledrive://"
+    },
+    { 
+        "id": "93049876-2D70-4201-B924-1B6FEF6E929C",
+        "name": "Claude",
+        "deepLink": "com.googleusercontent.apps.1062961139910-tjdcpu6g9ocbglsuhqdn3qdlo0d382id://"
+    },
+    { 
+        "id": "EA60419C-81D4-49C9-A33E-E1F64A307CFC",
+        "name": "Amazon",
+        "deepLink": "com.amazon.mobile.shopping://"
     }
 ]
