@@ -368,5 +368,10 @@
         "id": "027B7BB7-36D5-43D4-8FDF-A1CDBE191B81",
         "name": "I am",
         "deepLink": "iam://"
+    },
+    { 
+        "id": "2CE43C52-C02D-4E8D-8292-83D81109B938",
+        "name": "How We Feel",
+        "deepLink": "com.googleusercontent.apps.666825112376-4kpse3btf2i2m91m45p9q7qikfuac6k2://"
     }
 ]
