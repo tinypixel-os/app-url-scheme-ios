@@ -71,7 +71,7 @@
     },
     {
         "id": "27B4F79F-4214-480F-85F2-068C0FA2B42B",
-        "name": "Twitter",
+        "name": "Twitter / X",
         "deepLink": "twitter://"
     },
     {
@@ -83,11 +83,6 @@
         "id": "B1550502-2CFC-4ED2-9E7A-BE664E90444A",
         "name": "Netflix",
         "deepLink": "nflx://"
-    },
-    {
-        "id": "4BF44203-1969-4E52-8597-9F85541A9F46",
-        "name": "Telegram",
-        "deepLink": "tg://"
     },
     {
         "id": "C34910EE-8FBB-4279-A1B2-93708D01919A",
