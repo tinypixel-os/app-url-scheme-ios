@@ -628,5 +628,431 @@
         "name": "Linear",
         "deepLink": "linear://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/27/c0/5527c041-c597-281a-f879-6776d0914786/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "853A0981-7B78-49E3-9A1D-2B23E024734B",
+        "name": "Amie",
+        "deepLink": "amie://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/01/43/730143d6-2823-9279-16de-04414846d062/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "B1E041FC-014B-43A0-AF48-FDB21BF1146D",
+        "name": "Atoms",
+        "deepLink": "atoms://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/21/d7/4a/21d74a6a-f680-7a50-acaa-7008d1741dfc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "BB6A02A7-1F08-4E35-AC75-2EC0A107367F",
+        "name": "Microsoft Authenticator",
+        "deepLink": "msauth://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ab/ba/13abba90-52d6-a432-6520-b174378f9c56/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "45D0AB0E-10EC-4F73-9167-468FF9E240C0",
+        "name": "Holy Bible",
+        "deepLink": "tv.lifechurch.bible://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/27/9a/0c279a2d-0f2d-9ef8-10d8-4863b8cef01c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "1F922CF1-C519-4E8E-A26C-7BAD0E496B4D",
+        "name": "Blinkit",
+        "deepLink": "blinkit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/76/07/8c7607a5-0171-50b7-4069-0c63f09fd9ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "FCEF2B7B-A366-491F-B98B-A0B2E93AF9B9",
+        "name": "Bluesky",
+        "deepLink": "bluesky://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/ec/06/f7ec0625-392e-9081-ff41-bb97add5c3c8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "FB4FD256-BD8B-4D86-9043-91915B4FBC46",
+        "name": "BodyFast",
+        "deepLink": "bodyfast://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/8b/a97d8b8b-b7b0-35b4-cb06-19a49587f3f3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "DFA79325-B5FA-412C-820F-DD04F1E77C4D",
+        "name": "Budget",
+        "deepLink": "Budget://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/2e/f6/362ef65f-efd7-4ec5-e286-a7204e97ed8a/ChaseAppIcons-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/60x60bb.jpg"
+    },
+    {
+        "id": "925DA0FB-8860-4B2D-8FB6-E3C0FFFB1CBC",
+        "name": "ClearSpace",
+        "deepLink": "clear-space://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/0a/7b/a80a7b69-8630-d6e0-3cce-8890fec35d7a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "2277EA94-C2AC-4959-B183-B4C9782AF9AE",
+        "name": "Comet",
+        "deepLink": "Comet://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/84/a2/c184a2ca-33dc-ff0e-9812-8bce5b3b8723/AppIcon-RELEASE-1x_U007epad-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "5CE5E4DB-F6C0-4F8A-A648-1B6A7433FB3A",
+        "name": "Daylio",
+        "deepLink": "net.daylio.Daylio://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/af/08/f0af08d8-08ba-e5f1-adbb-e336074b884c/AppIcon-Color1-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "C07076D6-1A86-4130-80C2-1CD5CDCD9E7A",
+        "name": "Deepstash",
+        "deepLink": "deepstash://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/8b/0f/dc8b0fee-c09d-829b-ad6f-bd1b3bfc6922/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "F1CECA71-7B54-48A8-9272-C15581F00996",
+        "name": "Dropbox",
+        "deepLink": "dbx-dropbox://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/6e/04/266e0418-09e4-6522-175d-d309564b651e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "E9A30578-9203-40ED-8C0A-5C5D9FD11551",
+        "name": "Emphasis",
+        "deepLink": "exp+emphasis://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e7/c0/05e7c0f0-6d26-da6d-0956-46b360b33453/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "C7C04E1D-0332-4E6B-A5E5-554AEAA129EF",
+        "name": "Fastic",
+        "deepLink": "fastic://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/43/64/b4436448-b0f3-45e1-7929-c2bd2023a362/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "7A16A882-D2A1-4AB6-9A97-DBD8E6750124",
+        "name": "Flo",
+        "deepLink": "flo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/ea/fa/73eafa39-62b5-dc24-9d0e-887147172e86/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/434x0w.webp"
+    },
+    {
+        "id": "0346C147-D71A-4EC6-9C96-DA66A6FFAD7D",
+        "name": "Flow",
+        "deepLink": "flowapp://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/b8/03/c4b80383-4610-9d9b-39e8-281651215051/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "FF5D44DB-55F1-4666-B7CA-D683DB1B1DB8",
+        "name": "Focus Keeper",
+        "deepLink": "focuskeeperfree://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/db/f1/4ddbf19b-83b5-c801-a2e5-a51d4ae72beb/AppIcon_Free-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "7F7224D6-FF6D-4FE0-9E99-5EDE857D750F",
+        "name": "Focus To-Do",
+        "deepLink": "PomodoroToDo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/db/f1/4ddbf19b-83b5-c801-a2e5-a51d4ae72beb/AppIcon_Free-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "67D11F92-A883-4964-B836-64CDEF5AA0A5",
+        "name": "FocusPomo",
+        "deepLink": "focuspomo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/c8/5f/c5c85f5f-f98f-31ba-da39-4d0a59322625/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "91229A74-14B8-452F-A34D-2159C643C113",
+        "name": "Github",
+        "deepLink": "github://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/05/dc/0e05dcec-49c5-2686-3dcb-b1e275d572a4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "0F2DD76B-E6D7-44C3-8907-FAAA77BF136C",
+        "name": "Gratitude",
+        "deepLink": "gratefulness://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/dd/c2/49ddc24c-9993-39fa-0200-192d87011336/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "FEA3F988-8BE4-442D-A325-510454E2FF01",
+        "name": "Groww",
+        "deepLink": "groww.in://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/47/b5/4c47b510-72ea-e9ce-bb32-98f096329753/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "92A0535D-3E36-4646-B153-B4B30E5CC53D",
+        "name": "Habitify",
+        "deepLink": "habitify://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/3e/4e/823e4eac-77a6-ec7e-280e-994a34f02002/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "843491D5-0530-42A0-ABD0-E696FDC0782F",
+        "name": "HabitKit",
+        "deepLink": "customscheme://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/6b/55/726b55fd-4d9d-7803-d082-b15ad9762137/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "6FBCE232-2A3E-4536-A9BB-25184DC9EB32",
+        "name": "HealthifyMe",
+        "deepLink": "com.healthifyme.basic://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/39/e0/1039e03b-1672-6c58-0337-8f0357fff42d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "F9519186-057B-447E-9151-87A6BB5C7C18",
+        "name": "INDmoney",
+        "deepLink": "indmoney://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6f/bd/b16fbd08-a5e6-2872-76dd-de647158d2de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "87132577-8156-4602-9E74-6B8F2F1B50B6",
+        "name": "Insight Timer",
+        "deepLink": "insight://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/61/48/a5614866-2559-072b-b050-89e995d575d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "C1CC9D0D-77FB-4AFA-9682-FF6CB9F6159D",
+        "name": "Zerodha Kite",
+        "deepLink": "kite://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/17/15/221715f5-b3db-1963-1dc6-525bf6275243/KiteAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "F529AD98-D900-44A2-BE70-DB0B52D56C8D",
+        "name": "Lose It!",
+        "deepLink": "loseit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/fd/d1/45fdd14c-080e-6503-61f5-28f1252d5e46/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "03D24E3E-2372-4948-B824-48C065956579",
+        "name": "Lyft",
+        "deepLink": "lyft://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d6/37/30d637e9-271e-14ae-f0b2-05c7e5fad09a/PassengerAppIcon-1x_U007ephone-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "7769C34B-B2E2-4E32-BD06-203DEA0D7DFA",
+        "name": "Mastodon",
+        "deepLink": "mastodon://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7c/a4/777ca4d4-eb60-cbf3-7f26-d385cfb6c198/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "76144F18-B350-420B-926C-09E405036F24",
+        "name": "Monefy",
+        "deepLink": "me.monefy.ios://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/d9/fe/6ad9fe61-1093-9e6d-3255-31c4ad760334/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "EDC2F161-211B-4DC5-B8FF-0F69D557E63C",
+        "name": "Money Mgr.",
+        "deepLink": "TheNewMoneyManagerLite://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/dd/15/89dd1526-9caf-021a-f35b-87670a2ba0a1/MDM_App_Icons-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "F5FDCCA5-2ED3-415B-AA5B-B268C29E8C28",
+        "name": "MoneyManager",
+        "deepLink": "com.googleusercontent.apps.518212154905-bbmth2jl9peq05sqp4c6ih4gkv71hmq7://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/7b/e0/fb7be0b7-347c-8c9f-3274-7fb7d46baead/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "7F63F182-3115-4B08-AA0C-09434A13AFDA",
+        "name": "mymind",
+        "deepLink": "mymind://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/01/81/fc018110-8c85-69fc-85b1-bd21b4651fe6/AppIcon-Free-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "AF4E7ABD-EB59-4A16-8B65-13AE112E088D",
+        "name": "Notion Calendar",
+        "deepLink": "cron://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d6/d0/76d6d05e-fe6b-e4c9-49f2-26cf415fd322/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "DC7D3065-426D-4FA9-91F6-E773E5A83D94",
+        "name": "Obsidian",
+        "deepLink": "obsidian://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/cf/28/c4cf28e7-e821-ab28-ffc9-f9e31721e2f1/AppIcon-1x_U007epad-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "F1FE8D5E-FF7D-4500-B6F3-8C010F69F8AE",
+        "name": "Opal",
+        "deepLink": "opal://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/a4/e7/81a4e72d-dcbd-da67-45a7-f74228c36489/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "D9F3EB77-C7E3-4C3C-9619-C99F13B6A379",
+        "name": "Microsoft Outlook",
+        "deepLink": "ms-outlook://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/6f/8c/f16f8c29-8ec7-4c90-172a-7c048af562c4/AppIcon-outlook.prod-0-0-1x_U007epad-0-0-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "6CEE73E2-A9B4-4464-9D7B-46AED48BD614",
+        "name": "Overcast",
+        "deepLink": "overcast://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/28/12/87281261-22a9-7007-d749-83a9b21e7f51/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "3307DDBC-CB65-4C85-BC0B-842AB7BCBEB2",
+        "name": "Perplexity",
+        "deepLink": "perplexity-app://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/29/af/0a29af1b-54a5-ec23-ee1d-8336da7ad2ed/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "36CEE5A1-B468-4E3D-8B64-6B97993E6757",
+        "name": "Play Books",
+        "deepLink": "googlebooks://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/69/f2/1f69f2e1-8710-dd4c-d2cd-a43fb77b2db6/logo_play_books_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "55394F27-CF8F-4E5D-BDF2-5F46EFDB5E56",
+        "name": "Pocket",
+        "deepLink": "pocket://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/48/c0/8848c0ca-379c-1bdf-c6b5-86b818c9acee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "A4BA454D-F459-4802-AB46-22983042515C",
+        "name": "Pocket Casts",
+        "deepLink": "pktc://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/ec/6c/d4ec6c4f-f468-ca24-d300-dfa531920c2a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "AEE1FB16-8C8D-4A49-948D-4C4B077CB5AB",
+        "name": "Pokemon Sleep",
+        "deepLink": "pokemon-sleep://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8a/87/148a8778-fd7b-eec6-bb7f-d49a64c51490/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "658176BF-F630-4F49-8AC2-87ADC6F9F3A2",
+        "name": "Productive - Habit tracker",
+        "deepLink": "productive://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/65/b8/e565b863-ef43-6a80-c7d8-d7f9237cfa1f/AppIcon_iOS-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "16B54B6A-E5A8-4663-B3A5-40643072E290",
+        "name": "Revolut",
+        "deepLink": "revolut://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/76/c8/a876c8ff-dabc-579b-781a-d5e63a0eaefa/AppIcon-Production-0-1x_U007epad-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "728473ED-1A6D-47A9-AFAB-06093BC06D2D",
+        "name": "Rise Sleep",
+        "deepLink": "nyx://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a6/c5/8aa6c5d8-6b84-95a2-6d8b-e9939e9848a9/AppIconNew-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "FEE0FDBD-E431-447F-A696-F00DD70619B2",
+        "name": "Session",
+        "deepLink": "session://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/94/a6/f194a658-d0e0-5b48-57aa-22cf77751119/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "C73585B4-62BB-4944-ACC3-5E28605BC66F",
+        "name": "Sleep Cycle",
+        "deepLink": "sleepcycle://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/24/ef/6624ef70-9787-c7d6-c250-84179953dae9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "95DD5919-BDF5-4904-811E-B21AF9DAECC5",
+        "name": "Spark mail",
+        "deepLink": "spark-mail-url://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d6/5d/8bd65d24-6716-e098-6a85-79bfd42605b2/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "6B6107A5-657A-4723-8D98-7E42348C3A0A",
+        "name": "Spendee",
+        "deepLink": "spendee://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/f8/f0/93f8f0f9-5432-91e7-be49-f077c5c6363e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "2E3D9BE9-7CDC-49E5-93B0-1C147110186D",
+        "name": "Splitwise",
+        "deepLink": "splitwise://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/46/0f/26460f2b-98d9-72ca-37b8-74d0b6fd560e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "7A19E2FE-647A-4C97-A412-F45876B4DC1A",
+        "name": "Superhuman mail",
+        "deepLink": "superhuman://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a6/52/1fa652f6-40d4-7df7-244a-63bcf5f872f1/AppIcon-Official-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "8DA96510-1672-4BAC-A396-A3774A944969",
+        "name": "Superlist",
+        "deepLink": "superlist://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/78/00/4b780048-bba1-38a9-8f1e-9e453ad3cb7c/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "14688BC6-6D2B-498F-B97E-1B3BA39BB889",
+        "name": "Google Tasks",
+        "deepLink": "googletasks://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/1b/8f/bc1b8f8a-541c-35bd-e4eb-d4b63631fa7f/logo_tasks_color-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "1AEBAACE-EA82-4FF0-AA65-DD74FA2D020B",
+        "name": "Microsoft To Do",
+        "deepLink": "ms-to-do://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ff/07/47ff07dc-a62f-99a4-46db-104499e809c8/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "0A015047-63FB-4886-9DD0-AE98DBC73227",
+        "name": "Whatsapp Business",
+        "deepLink": "whatsapp-smb://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/db/01/64db0169-7c96-644f-c3c9-98aa498fd56c/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "60772D48-4106-4176-A6B4-561D5C0789A0",
+        "name": "Waze",
+        "deepLink": "waze://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/a8/2a/09a82ae6-d1bb-3cc9-6e88-385d6754256e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "FBED98AB-9B8E-4FF3-9B73-D99514FE30B2",
+        "name": "Zero",
+        "deepLink": "zerofasting://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f2/a6/47f2a623-2449-e3a7-7db2-29dc06e33523/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "A93AF9FF-162D-4D26-85CB-0CA23A2A33CE",
+        "name": "Zomato",
+        "deepLink": "zomato://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d2/5c/29d25c91-2b63-8b25-95c1-8b1e4ea9de7c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "CBDC3625-0509-47BF-BA80-8D8336EB4A83",
+        "name": "Tesla",
+        "deepLink": "tesla://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/75/76/da757697-2f3a-fd81-a667-b469b2a71543/ProdAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "4FEF489D-CE96-4980-BC86-75F2973C81A7",
+        "name": "Cult.fit",
+        "deepLink": "curefit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/85/e9/3785e98f-2dd7-9dfd-1f0a-d5b84387a79f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "0C34EA51-BBF8-4F4E-B213-D883766D2D3C",
+        "name": "Balance: Meditation & Sleep",
+        "deepLink": "balanceapp://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/8e/dd/688eddc8-0d26-986c-df23-293de17cbf48/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "E51CAE31-0597-4211-AB63-6A8B882C93C0",
+        "name": "Lifesum: Calorie Counter",
+        "deepLink": "shapeupclub://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/1d/ad/591dad5c-5f98-10eb-bcdf-87a58f9ba544/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "EABEA343-627E-4568-9C7E-968B38EE4E8F",
+        "name": "Water tracker by WaterMinder",
+        "deepLink": "waterminder://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/67/9d/89679d2b-83c2-0578-8d04-09e83fb694e9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "036B4DDD-46B3-40A4-A32E-114BA475FA61",
+        "name": "Inshot video editor",
+        "deepLink": "inshot://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/74/81/91748106-fe60-383e-c62c-12b5b4bb4af4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "8D276342-4FF5-4B9D-84A7-238356D7610D",
+        "name": "VN Video Editor",
+        "deepLink": "vn://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/65/96/a8659640-9718-eaf3-e8a9-f9ce86248d8d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "E6A14336-20B8-4B9A-B6D1-E2E1FCD0FAA8",
+        "name": "Zepp Life",
+        "deepLink": "mifit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/d2/ad/1ad2adf1-3fd4-949b-2dc8-c49c5cf247f2/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "9231CE3E-3A59-4D6A-9312-E80EBED1C05A",
+        "name": "Prime Video",
+        "deepLink": "primevideo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/5c/56/185c56b7-8bb9-713e-5f1f-e65356650ed4/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/60x60bb.jpg"
     }
 ]
