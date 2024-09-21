@@ -187,9 +187,9 @@
     },
     {
         "id": "0EC7C3DA-C5EE-4290-82CC-983D44BDE6F8",
-        "name": "Gmail",
+        "name": "Google mail",
         "deepLink": "googlegmail://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/1f/32/bd1f324b-6127-5373-7d27-8301d80de088/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/27/4f/5a274f14-1ee3-3676-255b-fa8750e9414c/logo_gmail_2020q4_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-0-85-220.png/60x60bb.jpg"
     },
     {
         "id": "21FAE72C-DC1F-4DFD-B401-D28709F17949",
@@ -285,7 +285,7 @@
         "id": "17E95481-3027-4939-967D-499638829245",
         "name": "Bear",
         "deepLink": "bear://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/e2/1668e237-8ffd-8dfd-963e-4455f6d36300/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/fe/8d/f8fe8dd1-31c0-6bd6-a0a1-32912cafe11d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg"
     },
     {
         "id": "87AAD48C-D528-4E5B-BB16-2978CA106731",
@@ -309,7 +309,7 @@
         "id": "C8F94A6C-3238-47B6-9823-06D37E43461A",
         "name": "Voicenotes",
         "deepLink": "voicenotes://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/1c/0d/aa1c0d30-ab7d-0b9d-43ea-1f59dd07c511/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d7/7c/51d77c3e-048f-7876-0369-34772f2e107b/AppIcon-1x_U007ephone-0-85-220-0.png/60x60.png"
     },
     {
         "id": "5E023052-ACE1-49E8-A5F2-CFBE95A9FF2B",
@@ -333,7 +333,7 @@
         "id": "C883ED17-A435-496D-8CE1-A69DDCACC317",
         "name": "Streaks",
         "deepLink": "streaks://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ee/2d/56ee2d36-b7fb-5059-45e7-f22a1f4b3492/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/f3/f9/6ef3f9cb-3832-eef6-7550-97f3ef27a366/AppIcon-Unfilled-0-0-1x_U007epad-0-1-0-85-220.png/60x60.png"
     },
     {
         "id": "8C0C2E84-C500-424F-B7DE-6A5775B5E0DD",
@@ -351,7 +351,7 @@
         "id": "6E0B0607-3B30-472B-AEF1-635C4211BB52",
         "name": "Arc Browser",
         "deepLink": "arc://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/49/7a/6f497aab-a80d-3fe5-798e-6487d4f90210/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/8f/6a/c48f6ad8-f3c6-bf8c-b547-835dce03fed1/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/60x60bb.jpg"
     },
     {
         "id": "98E05BFE-E969-4A3B-AC14-AE7F38ECDE29",
@@ -381,7 +381,7 @@
         "id": "E1CF9B25-8E73-4441-9B6F-86C9CCE64C59",
         "name": "CRED",
         "deepLink": "cred://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/94/74/c8947490-3d0c-4388-23cf-3fc0740b29e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/fe/9d/91fe9dff-c5e9-a493-2a1d-0034ed6b5ea3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.jpeg/60x60.png"
     },
     {
         "id": "EC9861C8-60CC-436A-95FD-65436227F1B1",
@@ -423,13 +423,13 @@
         "id": "EECAB15D-9804-4CD1-84F8-FE0F6F7E4911",
         "name": "Empty",
         "deepLink": "empty://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/db/7e/dddb7eda-b975-d47a-b52a-27679ff1a50b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/3b/fb/723bfbd2-d5a8-63bc-5ef1-2d56bc06fc85/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/314x0w.webp"
     },
     {
         "id": "815C6680-59B6-4361-8958-676C64AF2E15",
         "name": "No Nut",
         "deepLink": "nonut://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/2c/df/fc2cdf6b-8b47-940d-cb8a-a9ff1dbb09c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/d0/f3/3cd0f37e-b0aa-a66f-5cac-7e18ae873fac/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
     },
     {
         "id": "027B7BB7-36D5-43D4-8FDF-A1CDBE191B81",
@@ -477,7 +477,7 @@
         "id": "A7542CCF-C75E-44F4-8892-D1251849ED78",
         "name": "Rapido",
         "deepLink": "rapido://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/27/4f/5a274f14-1ee3-3676-255b-fa8750e9414c/logo_gmail_2020q4_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/69/91/656991bb-5538-aa23-6609-57019f368d4f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60.png"
     },
     {
         "id": "25F3A786-A88F-4A5B-82C3-EA7399B8D25F",
