@@ -1060,5 +1060,35 @@
         "name": "Soundcloud",
         "deepLink": "soundcloud://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/b5/5e/eeb55e4c-192b-1ebe-6c8b-79d92a7722e4/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
+    },
+     {
+        "id": "93500CCC-50CE-4D45-B1EB-E3C17D6A8BBA",
+        "name": "Asana",
+        "deepLink": "asana://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/fd/17/ccfd1735-6917-24d5-8364-0d12f658be99/AppIcon-0-0-1x_U007epad-0-0-0-0-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "295E738C-6724-44AD-B3DA-05ED23E86C7D",
+        "name": "Threads",
+        "deepLink": "barcelona://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/d4/91/25d491fd-fb88-cd87-7d51-1a214e61e153/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "308E9B46-9D0E-4876-82E3-B91E93A6A155",
+        "name": "Tinder",
+        "deepLink": "tinder://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/c9/c6/54c9c67c-dd03-0b69-3108-7e99aeeabad8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "C4930941-2A22-4553-8257-EAD00A9B2896",
+        "name": "Snapseed",
+        "deepLink": "googlesnapseed://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9b/3f/d99b3fe1-3c97-5851-8230-0fd63ab74d15/logo_snapseed_color-1x_U007emarketing-0-6-0-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "7DE7783B-6A80-491B-A1FA-68617B198EE8",
+        "name": "Amazon Alexa",
+        "deepLink": "alexa://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/36/a4/dc36a460-c1e1-66db-9326-3f424cff4ede/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg"
     }
 ]
