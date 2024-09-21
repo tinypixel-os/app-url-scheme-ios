@@ -633,13 +633,13 @@
         "id": "853A0981-7B78-49E3-9A1D-2B23E024734B",
         "name": "Amie",
         "deepLink": "amie://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/01/43/730143d6-2823-9279-16de-04414846d062/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/da/e6/a5dae6c9-013c-c027-e475-bf8e33a03c28/app-icon-pink-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60.png"
     },
     {
         "id": "B1E041FC-014B-43A0-AF48-FDB21BF1146D",
         "name": "Atoms",
         "deepLink": "atoms://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/21/d7/4a/21d74a6a-f680-7a50-acaa-7008d1741dfc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/40/f6/1340f615-4f72-7cb3-e3de-cec8b085fe45/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/60x60.png"
     },
     {
         "id": "BB6A02A7-1F08-4E35-AC75-2EC0A107367F",
@@ -663,19 +663,19 @@
         "id": "FCEF2B7B-A366-491F-B98B-A0B2E93AF9B9",
         "name": "Bluesky",
         "deepLink": "bluesky://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/ec/06/f7ec0625-392e-9081-ff41-bb97add5c3c8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/15/91/0f159174-9fe0-02ea-bd96-8b3f6b116bb8/AppIcon-0-0-1x_U007ephone-0-85-220.png/60x60.png"
     },
     {
         "id": "FB4FD256-BD8B-4D86-9043-91915B4FBC46",
         "name": "BodyFast",
         "deepLink": "bodyfast://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/8b/a97d8b8b-b7b0-35b4-cb06-19a49587f3f3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/72/cccd72ff-5450-fe14-ea70-5ac4c7562136/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60.png"
     },
     {
         "id": "DFA79325-B5FA-412C-820F-DD04F1E77C4D",
         "name": "Budget",
         "deepLink": "Budget://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/2e/f6/362ef65f-efd7-4ec5-e286-a7204e97ed8a/ChaseAppIcons-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/0d/c8/4f0dc813-8179-4d63-909b-94047e6a79e5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60.png"
     },
     {
         "id": "925DA0FB-8860-4B2D-8FB6-E3C0FFFB1CBC",
@@ -741,7 +741,7 @@
         "id": "7F7224D6-FF6D-4FE0-9E99-5EDE857D750F",
         "name": "Focus To-Do",
         "deepLink": "PomodoroToDo://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/db/f1/4ddbf19b-83b5-c801-a2e5-a51d4ae72beb/AppIcon_Free-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/01/99/430199fe-76f0-ef1b-8ac8-86e66b4c57ff/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60.png"
     },
     {
         "id": "67D11F92-A883-4964-B836-64CDEF5AA0A5",
@@ -765,7 +765,7 @@
         "id": "FEA3F988-8BE4-442D-A325-510454E2FF01",
         "name": "Groww",
         "deepLink": "groww.in://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/47/b5/4c47b510-72ea-e9ce-bb32-98f096329753/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/54/61/fa54616c-a0bc-f521-05c8-24b5d52019f8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60.png"
     },
     {
         "id": "92A0535D-3E36-4646-B153-B4B30E5CC53D",
@@ -831,19 +831,19 @@
         "id": "EDC2F161-211B-4DC5-B8FF-0F69D557E63C",
         "name": "Money Mgr.",
         "deepLink": "TheNewMoneyManagerLite://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/dd/15/89dd1526-9caf-021a-f35b-87670a2ba0a1/MDM_App_Icons-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/f7/76/1cf776a2-096e-0df4-46e3-2ee9b6ee4325/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60.png"
     },
     {
         "id": "F5FDCCA5-2ED3-415B-AA5B-B268C29E8C28",
         "name": "MoneyManager",
         "deepLink": "com.googleusercontent.apps.518212154905-bbmth2jl9peq05sqp4c6ih4gkv71hmq7://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/7b/e0/fb7be0b7-347c-8c9f-3274-7fb7d46baead/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/59/2d/7e592d65-dce4-b282-b20a-4f671894bcd4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60.png"
     },
     {
         "id": "7F63F182-3115-4B08-AA0C-09434A13AFDA",
         "name": "mymind",
         "deepLink": "mymind://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/01/81/fc018110-8c85-69fc-85b1-bd21b4651fe6/AppIcon-Free-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/78/a9/e478a95e-360f-dee9-1863-8c3e440f6da9/AppIcon-Release-1x_U007epad-0-sRGB-85-220-0.png/60x60.png"
     },
     {
         "id": "AF4E7ABD-EB59-4A16-8B65-13AE112E088D",
@@ -927,7 +927,7 @@
         "id": "FEE0FDBD-E431-447F-A696-F00DD70619B2",
         "name": "Session",
         "deepLink": "session://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/94/a6/f194a658-d0e0-5b48-57aa-22cf77751119/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/20/cd/4620cda4-1f31-2c7c-edd5-5f8229ed6ed3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60.png"
     },
     {
         "id": "C73585B4-62BB-4944-ACC3-5E28605BC66F",
@@ -955,7 +955,7 @@
     },
     {
         "id": "7A19E2FE-647A-4C97-A412-F45876B4DC1A",
-        "name": "Superhuman mail",
+        "name": "Superhuman",
         "deepLink": "superhuman://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a6/52/1fa652f6-40d4-7df7-244a-63bcf5f872f1/AppIcon-Official-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg"
     },
