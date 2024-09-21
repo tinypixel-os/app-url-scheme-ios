@@ -1054,5 +1054,11 @@
         "name": "Prime Video",
         "deepLink": "primevideo://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/5c/56/185c56b7-8bb9-713e-5f1f-e65356650ed4/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "D6845160-6A31-4258-AAC2-1687DE74E691",
+        "name": "Soundcloud",
+        "deepLink": "soundcloud://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/b5/5e/eeb55e4c-192b-1ebe-6c8b-79d92a7722e4/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
     }
 ]
