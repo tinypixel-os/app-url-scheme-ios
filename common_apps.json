@@ -486,12 +486,6 @@
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/28/91/312891a1-c0d5-eaf2-4241-3996511a0944/AppIcon-Original-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
     },
     {
-        "id": "9E72F3C6-6116-4AD0-9D71-370970BCB04C",
-        "name": "My Fitness Pal",
-        "deepLink": "myfitnesspal://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/02/00/c80200cc-ce35-02e2-5f95-fb205d950f84/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60bb.jpg"
-    },
-    {
         "id": "DD0EEE4E-C1CE-4A0D-B0FE-498DFCEA9806",
         "name": "Waterllama",
         "deepLink": "waterlama://",
