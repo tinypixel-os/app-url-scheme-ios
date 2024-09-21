@@ -1090,5 +1090,11 @@
         "name": "Amazon Alexa",
         "deepLink": "alexa://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/36/a4/dc36a460-c1e1-66db-9326-3f424cff4ede/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "76FF177B-AED3-42D5-B110-9D0C8AFF805D",
+        "name": "Apple Maps",
+        "deepLink": "maps://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/7f/9a/8d7f9a0f-498c-c3ad-4644-24fa6fc3465c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
     }
 ]
