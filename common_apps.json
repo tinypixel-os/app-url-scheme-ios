@@ -1102,6 +1102,34 @@
         "name": "Facetime",
         "shortcutUrl": "https://www.icloud.com/shortcuts/75f696f6116b4ecdb7af3b542cee1651",
         "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20FaceTime",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/7f/9a/8d7f9a0f-498c-c3ad-4644-24fa6fc3465c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cf/cc/0fcfcccc-dd48-0535-d4d5-6b0695bbe781/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
     },
+    {
+        "id": "640A6597-6E3F-4235-BC67-29F4CDA20933",
+        "name": "Contacts",
+        "shortcutUrl": "https://www.icloud.com/shortcuts/a9c53f20942949089fb1c7f6fc893a18",
+        "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20Contacts",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/08/41/cb0841ec-5d2a-5a29-d3f7-a48a543be872/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "6D79F15B-D269-41F8-BB99-1406ED04857C",
+        "name": "Clock",
+        "shortcutUrl": "https://www.icloud.com/shortcuts/9a3af219ebbf4bc78999eebc806ed80f",
+        "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20Clock",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/33/64/f23364f6-7d6c-e473-5b19-a3b88d0e5a38/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg"
+    },
+    {
+        "id": "C066C1BE-4F09-4A75-BD57-1CB334E2D3A0",
+        "name": "Phone",
+        "shortcutUrl": "https://www.icloud.com/shortcuts/7636caf9d16c4f839a8741534f528bd2",
+        "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20Phone",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/79/f1/4579f162-1cb6-e059-82d8-bd3c905e9a1f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/434x0w.webp"
+    },
+    {
+        "id": "25CBB1B2-FA0F-46B2-88FB-DDCC56AB838A",
+        "name": "Camera",
+        "shortcutUrl": "https://www.icloud.com/shortcuts/ccd64e15e32a47aab7692c3cfe75320b",
+        "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20Camera",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/7e/4d/f17e4d91-c3f4-0e8d-101b-c4d1cf041d21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp"
+    }
 ]
