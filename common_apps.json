@@ -1096,5 +1096,12 @@
         "name": "Apple Maps",
         "deepLink": "maps://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/7f/9a/8d7f9a0f-498c-c3ad-4644-24fa6fc3465c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
-    }
+    },
+    {
+        "id": "3A0A40D7-4A88-41EC-864B-EF7BDF9F17A6",
+        "name": "Facetime",
+        "shortcutUrl": "https://www.icloud.com/shortcuts/75f696f6116b4ecdb7af3b542cee1651",
+        "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20FaceTime",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/7f/9a/8d7f9a0f-498c-c3ad-4644-24fa6fc3465c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg"
+    },
 ]
