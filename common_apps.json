@@ -324,12 +324,6 @@
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/53/dd/4353ddfe-9ba2-8b08-db13-31a718ce3a0a/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg"
     },
     {
-        "id": "729C49BE-C834-44E8-85D5-BD9171D49C45",
-        "name": "Amazon Music",
-        "deepLink": "amazonmusic://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/47/9d/df479d79-342b-f091-4431-5eca75b6daf4/AppIcon-1x_U007epad-0-0-85-220-0.png/60x60bb.jpg"
-    },
-    {
         "id": "C883ED17-A435-496D-8CE1-A69DDCACC317",
         "name": "Streaks",
         "deepLink": "streaks://",
