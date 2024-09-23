@@ -390,12 +390,6 @@
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/31/79/ed317941-6450-27f5-a38b-0448503d2730/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/60x60bb.jpg"
     },
     {
-        "id": "2F2944D5-D30E-4B0F-82FB-2B2742F370C9",
-        "name": "Strong",
-        "deepLink": "strong://",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/72/e4/b272e4fd-c0ed-b5f8-5d13-b9a1a94eee1e/AppIcon_PROD-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/60x60bb.jpg"
-    },
-    {
         "id": "1951BF81-107B-434E-A258-6ED2D3A8989C",
         "name": "Strava",
         "deepLink": "strava://",
