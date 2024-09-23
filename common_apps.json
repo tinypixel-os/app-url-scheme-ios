@@ -1125,5 +1125,53 @@
         "shortcutUrl": "https://www.icloud.com/shortcuts/ccd64e15e32a47aab7692c3cfe75320b",
         "deepLink": "shortcuts://run-shortcut?name=Lite%20-%20Open%20Camera",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/7e/4d/f17e4d91-c3f4-0e8d-101b-c4d1cf041d21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp"
+    },
+    {
+        "id": "3368730E-E70E-4B40-932E-EB3EB2078BE4",
+        "name": "Kobo Books",
+        "deepLink": "kobo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c3/5d/dac35d85-caeb-ba7b-90dc-8ce6a7015752/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "43C185CD-4264-4056-BF33-5BB2C2A4645D",
+        "name": "BeReal",
+        "deepLink": "bereal://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/9c/b8/049cb83b-8c46-90b1-85cf-f243434b7bce/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg"
+    },
+    {
+        "id": "E984CC72-510B-4619-996E-89039A628977",
+        "name": "Libby",
+        "deepLink": "dewey-oauth://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/96/4c/1c964c1a-8f2f-6675-8eb5-5fb47af1c93f/AppIcon-0-0-1x_U007epad-0-2-0-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "53ED33A3-2D7D-4066-981A-9F5445DFD36B",
+        "name": "Storytel",
+        "deepLink": "storytel://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/69/ee/6869ee68-36aa-8593-6d63-db0aa52f29c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60.png"
+    },
+    {
+        "id": "856950E5-B968-4374-9FF8-C3B9AFC4DA6B",
+        "name": "Wattpad",
+        "deepLink": "wattpad://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/83/c8/4683c806-6b34-63aa-1387-e4630782b647/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "429F156B-0302-48D4-BD53-6B79C3FC0B58",
+        "name": "MinimaList",
+        "deepLink": "minimalist://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/5d/51/185d5123-4ae8-0a0c-43a2-787aece07c49/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "8CB7F3AF-9EF2-4632-972D-DD5BB54AFDA9",
+        "name": "Whoop",
+        "deepLink": "whoop://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/1a/62/f51a626f-3526-6950-fd2d-52bd18127961/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "6B507999-7E71-47FD-99C6-AC16028CE690",
+        "name": "Strong",
+        "deepLink": "strongapp://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/72/e4/b272e4fd-c0ed-b5f8-5d13-b9a1a94eee1e/AppIcon_PROD-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/60x60.png"
     }
 ]
