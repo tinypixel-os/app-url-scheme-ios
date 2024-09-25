@@ -1269,5 +1269,29 @@
         "name": "Pandora: Music & Podcasts",
         "deepLink": "pandora://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a7/ad/e6a7ad38-834a-4ec6-b0ed-fc0b07585936/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp"
+    },
+    {
+        "id": "3E6301AD-9CB2-4DAC-82B3-19783EACE6DD",
+        "name": "Fitbit: Health & Fitness",
+        "deepLink": "fitbit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/57/1a/69571a1e-f806-c653-a54b-017393e83e4c/AppIcon-0-1x_U007emarketing-0-0-0-0-0-0-0-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "05486A14-E2DA-4047-9B7D-7C1702B48CF5",
+        "name": "Nothing X",
+        "deepLink": "com.googleusercontent.apps.65319385718-kii6lrt7h9o6c969k57vg06913ooftms://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/55/d0/0155d06f-16db-79ab-94e3-629417b78443/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "E9B7AF15-DBB4-45C6-9912-816C3F9D2D77",
+        "name": "Finch: Self Care Pet",
+        "deepLink": "finch://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/db/f0/4fdbf080-1eb9-c3b4-6917-f32cb8724f4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp"
+    },
+    {
+        "id": "B76AF753-1FC9-4F4A-9927-3F1F66DD22F8",
+        "name": "Edison Mail",
+        "deepLink": "edisonmail://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/9f/a4/ed9fa4e9-27e0-702c-5c1e-722805548a32/ios-app-icon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60.png"
     }
 ]
