@@ -1173,5 +1173,59 @@
         "name": "PocketBook",
         "deepLink": "pocketbook://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/10/bb/1f10bbac-7ca0-84da-1478-fa6db3c14dcf/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "54D1F3F3-33A4-4F18-B39B-2A53FE6F8631",
+        "name": "Proton Calendar",
+        "deepLink": "protoncalendar://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/6e/b7/946eb7ae-8177-075f-d189-1bef32e9109c/AppIcon-Release-1x_U007emarketing-0-7-0-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "FAF0B770-8802-4A94-97BB-584EC1A1E08A",
+        "name": "Proton Mail",
+        "deepLink": "protonmail://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/38/d7/1e38d792-3bbb-c3c2-86fb-8f28fcc44c7f/AppUniversalIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "23829023-D41B-406B-8991-C50E61891327",
+        "name": "Proton Pass",
+        "deepLink": "otpauth://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/d6/21/add62185-bed2-02c6-cee8-ca6d9ee5a020/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "E339E628-B097-4559-9C4F-0C0C0F4C7A6D",
+        "name": "Proton VPN",
+        "deepLink": "protonvpn://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/86/22/20862270-5a65-8d4b-d15c-881ab9a1f150/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "E8C534FF-AE32-4D87-855D-45783CEEE456",
+        "name": "Apollo for Reddit",
+        "deepLink": "apollo://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "2624E75A-C048-4505-910B-8E2449FF68B4",
+        "name": "Calendars: Planner & Organiser",
+        "deepLink": "calendarslite://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/7d/7c/ed7d7c94-a0ca-df6c-308d-efbbca845dcc/AppIcon-0-0-2x_U007euniversal-0-4-0-0-85-220.png/434x0w.webp"
+    },
+    {
+        "id": "B97573F8-B33E-4303-8473-B05498844DE1",
+        "name": "Opal Travel",
+        "deepLink": "opaltravelapp://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/23/8e/97238e31-9410-b55d-d9b4-728d169dfd37/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "A44CC721-AA7F-449B-B5CD-32D6DC1A7288",
+        "name": "Messenger",
+        "deepLink": "fb-messenger-public://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/fa/51/defa51b9-19c0-ecd1-e3dd-c08a748740ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "17B95897-3380-4CCD-8396-E12EACE94584",
+        "name": "Procare: Childcare App",
+        "deepLink": "klime://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/3b/df/cc3bdf32-4055-84db-f698-2004f42cf5b4/AppIcon-PC-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60.png"
     }
 ]
