@@ -74,7 +74,7 @@
     {
         "id": "2AA9CB87-0B3D-4CA8-91EA-4EF541EB0009",
         "name": "Whatsapp",
-        "deepLink": "whatsapp://",
+        "deepLink": "whatsapp-consumer://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/21/4c/ff214c3c-53be-9a1b-7ecd-6cae6213aaa3/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg"
     },
     {
