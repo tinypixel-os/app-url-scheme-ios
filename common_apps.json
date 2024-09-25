@@ -1227,5 +1227,17 @@
         "name": "Procare: Childcare App",
         "deepLink": "klime://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/3b/df/cc3bdf32-4055-84db-f698-2004f42cf5b4/AppIcon-PC-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "29AFA40E-E64C-4869-A7BE-C904B6707A9C",
+        "name": "Google",
+        "deepLink": "google://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/52/5e/a0525e3e-f737-da38-5a1e-49a2fc1ed18c/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "1A909A3A-797B-4D00-B6B9-1B86F9B38F0A",
+        "name": "Weather",
+        "deepLink": "weather://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/b9/28/cfb9281c-6354-e66e-5ee5-b2aeadf81c37/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60.png"
     }
 ]
