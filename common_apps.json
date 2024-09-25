@@ -1239,5 +1239,35 @@
         "name": "Weather",
         "deepLink": "weather://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/b9/28/cfb9281c-6354-e66e-5ee5-b2aeadf81c37/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60.png"
+    },
+    {
+        "id": "609C983B-AC12-431B-832E-AAA089E760E1",
+        "name": "Happier: Meditation",
+        "deepLink": "tenpercenthappier://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/6b/df/fb6bdf47-234e-030f-5338-33b60f4c74a5/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "C2D3AF9D-E984-4F0A-9301-FD96F85C4ABA",
+        "name": "Transit • Subway & Bus Times",
+        "deepLink": "transit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/af/48/d2af485d-a937-986e-f5aa-de66507d9fdb/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-GLES2_U002c0-85-220.png/60x60.png"
+    },
+    {
+        "id": "1D22E9C8-B29B-422E-8EAD-541BFC4525BC",
+        "name": "2FA Authenticator (2FAS)",
+        "deepLink": "twofas://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/5e/4d/775e4d12-cba8-5eb6-4a64-3ffc33efef21/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "64D00686-7BCB-4BBD-A8AE-F3943F8A4EC1",
+        "name": "Evermusic offline music player",
+        "deepLink": "evermusic://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/57/94/a7579408-7f7d-8f8c-8a85-ece6ff52532e/AppIcon_evermusic_free-0-0-1x_U007emarketing-0-10-0-512MB-85-220.png/60x60.png"
+    },
+    {
+        "id": "CDDF7E55-6818-4C25-8CC2-C31AC1282552",
+        "name": "Pandora: Music & Podcasts",
+        "deepLink": "pandora://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a7/ad/e6a7ad38-834a-4ec6-b0ed-fc0b07585936/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp"
     }
 ]
