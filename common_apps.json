@@ -1293,5 +1293,41 @@
         "name": "Edison Mail",
         "deepLink": "edisonmail://",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/9f/a4/ed9fa4e9-27e0-702c-5c1e-722805548a32/ios-app-icon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "8F8EE5E2-A86E-4769-8F2D-09A10B9D9D49",
+        "name": "YNAB",
+        "deepLink": "ynab://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9a/c7/829ac7bd-26bf-5871-a2a7-f3a317a20a57/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "7C9F7FCD-0175-435A-8C80-092D00241F98",
+        "name": "Instapaper",
+        "deepLink": "instapaper://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/6a/2a/876a2ae7-0764-b1f4-6c41-161b6f646356/AppIcon-0-1x_U007epad-0-8-0-0-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "D9A51602-0884-4664-B4B4-4A481B602B38",
+        "name": "Citymapper: All Live Transit",
+        "deepLink": "citymapper://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/97/2a/78972a80-bfc1-328e-28f6-370b8db9acff/AppIcon-Release-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60.png"
+    },
+    {
+        "id": "756A5447-1EAE-42D0-B0ED-5DF74F7B5CCD",
+        "name": "[untitled]",
+        "deepLink": "untitled://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/af/5f/e2af5fe6-fb23-469d-e666-9faf3038c982/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/60x60.png"
+    },
+    {
+        "id": "ABEC19F8-090C-4241-93CE-A392F032B38C",
+        "name": "Retro. Ad-Free Social",
+        "deepLink": "retro://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c0/c6/c8c0c69a-3ce7-1897-ff51-1c252d68af55/AppIcon-Chrome-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60.png"
+    },
+    {
+        "id": "A450A7BF-D6BF-4D87-8836-9DDF1F7A7E40",
+        "name": "Moovit: Public Transport Live",
+        "deepLink": "moovit://",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/90/c5/1b90c534-8c8b-e9ef-e98a-378d5ba6b254/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60.png"
     }
 ]
